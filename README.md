@@ -25,7 +25,7 @@ CS50 congratulates YOUSSOUF EL MOUMEN on the successful completion of CS50's Und
 
 ## Certificate
 
-![CS50's Understanding Technology Certificate](cs50t.png)
+![CS50's Understanding Technology Certificate](img/cs50t.png)
 
 
 Happy coding!
